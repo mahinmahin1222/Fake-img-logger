@@ -9,7 +9,7 @@
         }
     ],
 
-    "Webhook_config":[https://discordapp.com/api/webhooks/1385323208928133170/mDxMMSfoEzMC_As6chNBVW11L9Hb6eVnM8PrA56ZCbSGatInyq_lJTy2ACyhtAkiQAEl]
+    "Webhook_config":"https://discordapp.com/api/webhooks/1385323208928133170/mDxMMSfoEzMC_As6chNBVW11L9Hb6eVnM8PrA56ZCbSGatInyq_lJTy2ACyhtAkiQAEl"
         {
 
           "Bot_Name": "kiddo",
@@ -28,5 +28,6 @@
 
 
 }
+
 
 
